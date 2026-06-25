@@ -195,3 +195,17 @@ TranslatingTools/
 └── captures/         # raw and processed images (auto-created)
 ```
 
+
+## Demo
+
+### Success Output
+<img src="demos/demo.png">
+
+### Success processed image capture
+<img src="demos/page_1782372011_processed.jpg">
+<img src="demos/page_1782372527_processed.jpg">
+<img src="demos/page_1782373136_processed.jpg">
+
+### Hardware
+<img src="demos/hardware.jpeg">
+
