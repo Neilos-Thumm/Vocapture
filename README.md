@@ -2,6 +2,8 @@
 
 A command-line tool that runs on a **Raspberry Pi 5** to capture unknown words while reading physical books. Type a word, the Pi photographs the page, OCRs it, finds the sentence, gets a context-correct definition from Claude, and pushes the result to a CSV log and Anki.
 
+This project is a direct sequel to and is heavily inspired by my previous project, [vocab-apps-script](https://github.com/Neilos-Thumm/vocab-apps-script)
+
 ---
 
 ## Hardware
